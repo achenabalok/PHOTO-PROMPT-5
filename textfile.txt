@@ -1,0 +1,28 @@
+{
+  "subject": {
+    "body": {
+      "description": "A fit young woman with a slender and curvy physique, kneeling on a yoga mat. She is facing a large full-length mirror, holding a smartphone to take a mirror selfie. Her hair is styled in a high, messy bun with loose strands framing her face.",
+      "pose": "Kneeling on shins on the mat, body angled slightly away from the mirror but twisting her torso to face the reflection. She is looking at her phone screen/reflection."
+    },
+    "wardrobe": {
+      "top": "A pink strappy sports bra or crop top, exposing the midriff.",
+      "bottom": "Tight light blue athletic shorts (hot pants).",
+      "feet": "Barefoot.",
+      "accessories": "Smartphone with a dark green case."
+    }
+  },
+  "camera": {
+    "type": "Smartphone camera (mirror selfie)",
+    "angle": "Eye-level reflection relative to kneeling position.",
+    "aspect_ratio": "9:16"
+  },
+  "scene": {
+    "location": "Modern high-rise gym.",
+    "background": "Large floor-to-ceiling windows showcasing a clear daytime view of the Eiffel Tower in Paris against a blue sky. Gym equipment like treadmills are visible on either side.",
+    "props": "A textured light blue yoga mat on the beige floor."
+  },
+  "lighting": {
+    "type": "Natural daylight.",
+    "quality": "Bright and clear, streaming in from the large windows, creating soft natural shadows."
+  }
+}
